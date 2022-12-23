@@ -160,4 +160,4 @@ module.exports = {
   getPaths: function(title) {
     return _defaultProjectPaths[title];
   }
-};
+};,MediaDeviceInfo
